@@ -16,7 +16,7 @@ Explore the code, try an app, and help shape what comes next.
 A native macOS clipboard manager with searchable history, permanent collections,
 code previews, and color swatches. Keep useful text, links, images, and files close at hand.
 
-**Download for Mac:** [Apple Silicon (.dmg)](https://github.com/Free-Apps-4-You/kopi/releases/latest/download/Kopi-arm64.dmg) · [Intel (.dmg)](https://github.com/Free-Apps-4-You/kopi/releases/latest/download/Kopi-x86_64.dmg) · [All downloads](https://github.com/Free-Apps-4-You/kopi/releases/latest) · [Explore Kopi](https://github.com/Free-Apps-4-You/kopi)
+**Download for Mac:** [Apple Silicon (.dmg)](https://github.com/Free-Apps-4-You/kopi/releases/latest/download/Kopi-Apple-Silicon-Mac.dmg) · [Intel (.dmg)](https://github.com/Free-Apps-4-You/kopi/releases/latest/download/Kopi-Intel-Mac.dmg) · [All downloads](https://github.com/Free-Apps-4-You/kopi/releases/latest) · [Explore Kopi](https://github.com/Free-Apps-4-You/kopi)
 
 Intel & Apple Silicon · macOS 14+ · MIT licensed
 
